@@ -1,4 +1,4 @@
-# just-the-docs.Theme
+# Just the Docs.Theme
 class: theme
 category: Documentation generator
 desc: Clean simple theme!
