@@ -7,7 +7,9 @@ Home:
 - site: https://just-the-docs.com/
 - source: https://github.com/just-the-docs/just-the-docs
 
-example: https://ostreedev.github.io/ostree/
+example:
+- https://ostreedev.github.io/ostree/
+- https://coreos.github.io/rpm-ostree/
 
 relation:
 - http://jekyllthemes.org/
