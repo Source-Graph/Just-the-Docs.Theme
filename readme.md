@@ -9,4 +9,9 @@ Home:
 
 example: https://ostreedev.github.io/ostree/
 
-relation: http://jekyllthemes.org/, https://youtu.be/nDvpk3qXi0k
+relation:
+- http://jekyllthemes.org/
+- https://jekyllrb.com/
+
+guide:
+- https://youtu.be/nDvpk3qXi0k
